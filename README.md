@@ -7,7 +7,8 @@ Exif-Scout is a program I have written as a universities class project some year
 
 
 --project by 	Tim Luedtke (mail «at» timluedtke dot de)
---thanks to  	S. Brueckner, S. Walz, R. Kratou
+
+--thanks to  	S. Steinmann, S. Brueckner, S. Walz, R. Kratou
 
 
 
