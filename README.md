@@ -15,7 +15,7 @@ Exif-Scout is a program I have written as a universities class project some year
 WARNING
 =======
 
-This project is not jet in a working condition because the makefiles need to be adjusted. As a result of bad makefile generation (by eclipse) the makefiles have the needed directorys hardcoded (e.g. /usr/share/qt4/mkspecs/linux-g++). Therefore it is some work necessary before the project can be compiled for the first time after the years. Sorry for that - but thats over my makefile-knowledge for know... Some help here would be nice.
+This project is not yet in a working condition because the makefiles need to be adjusted. As a result of bad makefile generation (by eclipse) the makefiles have the needed directorys hardcoded (e.g. /usr/share/qt4/mkspecs/linux-g++). Therefor it is some work necessary before the project can be compiled for the first time after the years. Sorry for that - but thats over my makefile-knowledge for know... Some help here would be nice.
 
 The Exiv2-Library may be needed on you system (http://www.exiv2.org/download.html).
 
