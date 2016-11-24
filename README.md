@@ -1,7 +1,10 @@
 Exif-Scout
 ==========
 
-The Exif-Scout is a C++ code GUI for offline searching through the exif-data of images. You can select various exif-data as search parameters and the Exif-Scout searches through your offline media.
+The Exif-Scout is a C++ & Qt based GUI for offline searching through the exif-data of images. 
+![Exif-Scout-GUI](http://www.pixhoster.info/f/2016-11/9b3ecc3f8153be3072c6b7ec33de6467.png)
+
+You can select various exif-data as search parameters and the Exif-Scout searches through your offline media.
 
 Exif-Scout is a program I have written as a universities class project some years ago. I wanted to save it before it gets lost. Therefore you have the oppotunity to check Exif-Scout out! Open Exif-Scout-GUI.png for GUI screenshot.
 
@@ -24,7 +27,7 @@ The Exiv2-Library may be needed on you system (http://www.exiv2.org/download.htm
 FILES
 =====
 
-Makefile 		- was once used for comiling in linux
+Makefile 			- was once used for comiling in linux
 Makefile.Debug		- was once used for comiling in Windows
 Makefile.Release	- was once used for comiling in Windows
 
