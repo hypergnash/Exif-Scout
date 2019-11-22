@@ -1,7 +1,7 @@
 Exif-Scout
 ==========
 
-The Exif-Scout is a C++ & Qt based GUI for offline searching through the exiv-data of images. 
+The Exif-Scout is a C++ & Qt based GUI for offline searching through the exif-data of images with the power of regular expresions.
 ![Exif-Scout-GUI](http://timluedtke.de/ablage/Exif-Scout.png)
 
 You can select various exiv-data as search parameters and the Exif-Scout searches through your offline media.
